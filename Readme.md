@@ -7,5 +7,5 @@
 
 | Metric          | Original Sklearn Model      | Quantized Model             |
 |-----------------|-----------------------------|-----------------------------|
-| **R² Score** | *Your result here* | *Your result here* |
-| **Model Size (KB)** | *Your result in KB here* | *Your result in KB here* |
+| **R² Score**    | 0.5758                      | -0.1799                     |
+| **Model Size (KB)** |0.40                     | 0.51                        |
